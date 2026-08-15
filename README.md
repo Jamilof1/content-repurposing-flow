@@ -2,6 +2,11 @@
 
 Turn one source into editable LinkedIn, email, social, and follow-up drafts while keeping review visible. Project 07 in the Jamil Darwish Automation Lab.
 
+[![Verify](https://github.com/Jamilof1/content-repurposing-flow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jamilof1/content-repurposing-flow/actions/workflows/ci.yml)
+[View in Jamil Darwish's portfolio](https://jamildarwish.com/#automation-lab) · [MIT License](./LICENSE)
+
+![Content Repurposing Flow interface](./public/preview.png)
+
 ## Modes
 
 - **Demo:** deterministic templates create useful starting drafts locally.
